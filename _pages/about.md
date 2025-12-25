@@ -11,7 +11,7 @@ Hi！我是肖志文，目前就读于[北京大学光华管理学院社会研�
 
 我的导师是社会研究中心的[柳皑然副教授](airanliu.weebly.com)和[谢宇教授](https://yuxie.scholar.princeton.edu/)。我本科毕业于[北京大学社会学系](http://www.shehui.pku.edu.cn)，师从[刘爱玉教授](http://www.shehui.pku.edu.cn/qzsz2/articles/1448635410875027456.html)。
 
-这里是我的简历：[CV]；You can find my CV here: [CV]。
+这里是我的简历：[CV](https://github.com/CeterisParibusCsr/CeterisParabus.github.io/blob/e548ea67ffdf314958b3754e27e055db40295c41/assets/Zhiwen%20Xiao_CV_Chinese.pdf)；You can find my CV here: [CV](https://github.com/CeterisParibusCsr/CeterisParabus.github.io/blob/e548ea67ffdf314958b3754e27e055db40295c41/assets/Zhiwen%20Xiao_CV_Chinese.pdf)。
 
 我的邮箱是：xiaozhiwen@pku.edu.cn
 
